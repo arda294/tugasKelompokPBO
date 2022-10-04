@@ -8,7 +8,7 @@ public class RentalMobilTest {
         pl.printNota();
         tglNow += 3;
         pl.kembali(tglNow);
-        
+        pl.printNota();
     }
     
 }
