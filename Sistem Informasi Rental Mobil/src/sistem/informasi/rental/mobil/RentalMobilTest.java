@@ -1,9 +1,5 @@
 package sistem.informasi.rental.mobil;
 
-/**
- *
- * @author ardap
- */
 public class RentalMobilTest {
     public static void main(String[] args) {
         int tglNow = 2;
