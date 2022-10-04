@@ -60,5 +60,4 @@ public class Sewa {
         this.tglPengembalian = tglPengembalian;
     }
     
-    
 }
