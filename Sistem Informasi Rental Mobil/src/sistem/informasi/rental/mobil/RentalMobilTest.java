@@ -8,6 +8,7 @@ public class RentalMobilTest {
         pl.printNota();
         tglNow += 3;
         pl.kembali(tglNow);
+        pl.sewa("Brio", 4, 10);
         pl.printNota();
     }
     
