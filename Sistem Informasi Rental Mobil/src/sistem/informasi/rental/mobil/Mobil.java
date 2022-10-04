@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package sistem.informasi.rental.mobil;
 
-/**
- *
- * @author ardap
- */
 public class Mobil {
     private double hargaSewa = 250000;
     
@@ -22,7 +14,5 @@ public class Mobil {
     public void setHargaSewa(double hargaSewa) {
         this.hargaSewa = hargaSewa;
     }
-    
-    
-    
+ 
 }
